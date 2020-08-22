@@ -44,6 +44,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doolpool&show_icons=true" alt="doolpool" /></p>
 
+<hr>
+
 <p align="center">
    <a alt="play doolpool" href="https://doolpool.com/play">Play DoolPool</a>
  • <a alt="red doolpool" href="https://doolpool.com/red/">Red DoolPool</a>
