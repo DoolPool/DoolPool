@@ -10,7 +10,7 @@
 
 ## Contac
 
-- 🔭 I’m currently working on [DoolPool, Inc](https://doolpool.com1)
+- 🔭 I’m currently working on [DoolPool, Inc](https://doolpool.com)
 
 - 📫 How to reach me **doolpool.company@gmail.com**
 
