@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://doolpool.com" target="_blank" rel="noopener noreferrer">
-    <img width="100" src="https://www.doolpool.com/assets/src=ico=doolpool.png" alt="DoolPool logo">
+    <img width="100" src="https://doolpool.github.io/DoolPool/imggg.png" alt="DoolPool logo">
   </a>
 </p>
 <h1 align="center">DoolPool, Inc.</h1>
