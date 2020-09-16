@@ -1,6 +1,3 @@
-<?php 
-session_start();
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -52,17 +49,15 @@ session_start();
     <!-- BEGIN PLUGINS STYLES -->
     <link rel="stylesheet" href="assets/vendor/aos/aos.css">
     <!-- END PLUGINS STYLES -->
-        <!-- GOOGLE FONT -->
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600" rel="stylesheet"><!-- End GOOGLE FONT -->
     <!-- BEGIN PLUGINS STYLES -->
     <link rel="stylesheet" href="assets/vendor/open-iconic/css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="assets/vendor/fontawesome-free/css/all.min.css">
-    <link rel="stylesheet" href="assets/vendor/cookieconsent/cookieconsent.min.css"><!-- END PLUGINS STYLES -->
+    <link rel="stylesheet" href="assets/vendor/cookieconsent/cookieconsent.min.css">
+    <!-- END PLUGINS STYLES -->
     <!-- BEGIN THEME STYLES -->
     <link rel="stylesheet" href="assets/stylesheets/theme.min.css" data-skin="default">
     <link rel="stylesheet" href="assets/stylesheets/theme-dark.min.css" data-skin="dark">
     <link rel="stylesheet" href="assets/stylesheets/custom.css">
-    
     <!-- Disable unused skin immediately -->
     <script>
       var skin = localStorage.getItem('skin') || 'default';
@@ -70,17 +65,6 @@ session_start();
       unusedLink.setAttribute('rel', '');
       unusedLink.setAttribute('disabled', true);
     </script>
-    <!-- Google AdSense V2-->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-3866600113606193",
-    enable_page_level_ads: true
-    });
-    </script>
-     <!-- Google AdSense -->
-    <script data-ad-client="ca-pub-3866600113606193" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
   </head>
  <body >
     <!-- .app -->
@@ -151,14 +135,11 @@ session_start();
 	fwrite($f, $contador);
 	fclose($f); 
 ?>
-                  <p>Visit: <?php echo "$contador";?></p>
-
+                <p>Visit: <?php echo "$contador";?></p>
                 <a href="productos/" class="btn btn-lg btn-primary d-block d-sm-inline-block mr-sm-2 my-3" data-aos="zoom-in" data-aos-delay="200">
                   <i class="fas fa-th-list"> Productos</i></a> 
-                
                 <a href="proyectos/" class="btn btn-lg btn-subtle-primary d-block d-sm-inline-block my-3" target="_blank" data-aos="zoom-in" data-aos-delay="300"> 
                   <i class="fas fa-th-list"> Proyectos</i></a>
-              
               </div>
             </div>
             <!-- /.col-md-6 -->
@@ -458,9 +439,6 @@ session_start();
           </div><!-- /.row -->
         </div><!-- /.container -->
       </section><!-- /testimonials -->
-  
-
-
       <!-- call to action -->
       <section class="py-5 position-relative bg-light">
         <!-- .sticker -->
@@ -570,7 +548,6 @@ session_start();
               </ul>
             </div><!-- /.col -->
           </div><!-- /.row -->
-
               <footer class="app-footer">
                 <div class="copyright">
                   <font style="vertical-align: inherit;">
@@ -578,7 +555,6 @@ session_start();
                   </font>
                 </div>
               </footer>
-     
         </div><!-- /.container -->
       </section><!-- /footer -->
     </main><!-- /.app -->
@@ -591,25 +567,14 @@ session_start();
     <script src="assets/vendor/pace-progress/pace.min.js"></script>
     <script src="assets/vendor/stacked-menu/js/stacked-menu.min.js"></script>
     <script src="assets/vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
-    <script src="assets/vendor/cookieconsent/cookieconsent.min.js"></script> <!-- END PLUGINS JS -->
+    <script src="assets/vendor/cookieconsent/cookieconsent.min.js"></script> 
+    <!-- END PLUGINS JS -->
     <!-- BEGIN PLUGINS JS -->
-    <script src="assets/vendor/aos/aos.js"></script> <!-- END PLUGINS JS -->
+    <script src="assets/vendor/aos/aos.js"></script> 
+    <!-- END PLUGINS JS -->
     <!-- BEGIN THEME JS -->
-    <script src="assets/javascript/theme.min.js"></script> <!-- END THEME JS -->
-
+    <script src="assets/javascript/theme.min.js"></script> 
+    <!-- END THEME JS -->
     <script src="assets/javascript/pages/cookieconsent-demo.js"></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116692175-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-
-      function gtag()
-      {
-        dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-      gtag('config', 'UA-116692175-1');
-    </script>
-
   </body>
 </html>
