@@ -49,7 +49,7 @@
 <p align="center">
    <a alt="play doolpool" href="https://doolpool.com/play">Play DoolPool</a>
  • <a alt="red doolpool" href="https://doolpool.com/red/">Red DoolPool</a>
- • <a alt="music doolpool" href="https://doolpool.com/music"> Music DoolPool</a>
+ • <a alt="music doolpool" href="https://doolpool.com/music">Music DoolPool</a>
 </p> 
 <p align="center"> © 2018-2020 DoolPool Inc. <br>All right reserved in <a href="https://doolpool.com/docs/">Documentation</a>.</p>
            
