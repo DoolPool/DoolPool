@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">DoolPool, Inc.</h1>
 <h3 align="center">Hello 👋, we are DoolPool, frontend and backend developers located in Peru.</h3>
-
+<hr>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=doolpool" alt="doolpool" /> </p>
 
 ## Contac
