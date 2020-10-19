@@ -1,1 +1,3 @@
-alert("!DoolPool!");
+alert("!Hola, Usuario!");
+document.write('¡DoolPool!');
+
